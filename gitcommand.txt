@@ -1,0 +1,12 @@
+git init
+git add .
+git status
+git branch --unset-upstream
+git log
+
+add git repository
+$ git remote add origin https://github.com/hqh1978/gitTest.git
+
+git push --set-upstream origin master
+git push
+
